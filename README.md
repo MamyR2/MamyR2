@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mamy
-- 👀 I’m interested in we development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on a react project or any similar frontend project
 - 📫 How to reach me : by mail : mamyrazanatsirofo@gmail.com
